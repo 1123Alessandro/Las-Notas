@@ -6,10 +6,12 @@
     "flashcardTags": [
       "#test",
       "#plang",
+      "#plang",
       "#nsys",
       "#softeng",
       "#pdev",
-      "#appdev"
+      "#appdev",
+      ""
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": true,
@@ -46,7 +48,7 @@
     "singlelineCardSeparator": ";;",
     "singlelineReversedCardSeparator": ";;;"
   },
-  "buryDate": "2023-09-21",
+  "buryDate": "2023-10-03",
   "buryList": [],
-  "historyDeck": ""
+  "historyDeck": "plang"
 }
