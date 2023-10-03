@@ -1,0 +1,9 @@
+@media screen, print {
+    .cen {
+        text-align: center;
+    }
+
+    .title {
+        margin-top: 500px;
+    }
+}

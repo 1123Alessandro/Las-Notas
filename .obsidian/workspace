@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "b403f110b38674d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "00ff16d9f2a3e987",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Recollection/reflecc.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "38f4e2062f4c39bf",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Timeline/Pasted image 20221013155711.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe3d29f0bc3cf5da",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3febc3e22ae25c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9005e9feaba770dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c91d93322557f993",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#reading",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5107650756836,
+    "collapsed": true
+  },
+  "right": {
+    "id": "791da04cfc683476",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ebd255fcc7cab32",
+        "type": "tabs",
+        "dimension": 58.66851595006934,
+        "children": [
+          {
+            "id": "6421835a669976e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Recollection/reflecc.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19be70177e965524",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "492e0f49bd38f055",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d409ad57f32eb709",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b3ead17af2e30f1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "459d32565c4b6431",
+        "type": "tabs",
+        "dimension": 41.33148404993065,
+        "children": [
+          {
+            "id": "e0a05afab387acb9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 360.66802978515625,
+    "collapsed": true
+  },
+  "active": "00ff16d9f2a3e987",
+  "lastOpenFiles": [
+    "Timeline/Pasted image 20221013155711.png",
+    "Recollection/reflecc.md",
+    "Timeline/10-13-22.md",
+    "000.md",
+    "Theology/Lesson Notes/1Template.md",
+    "App and Web Dev/CSS.md",
+    "Recollection/testimg.png",
+    "Recollection/rec.md",
+    "Theology/Pasted image 20221012111834.png",
+    "Timeline/10-14-22.md"
+  ]
+}

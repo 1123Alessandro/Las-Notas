@@ -1,0 +1,23 @@
+{
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-teal",
+  "anuppuccin-theme-settings@@anp-codeblock-numbers": true,
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-preview": "none",
+  "minimal-style@@zoom-off": true,
+  "minimal-style@@table-lines": false,
+  "minimal-style@@col-lines": false,
+  "minimal-style@@row-alt": false,
+  "minimal-style@@col-alt": false,
+  "minimal-style@@table-tabular": false,
+  "minimal-style@@table-numbers": false,
+  "minimal-style@@table-nowrap": false,
+  "minimal-style@@row-hover": true,
+  "minimal-style@@trim-cols": true,
+  "minimal-advanced@@styled-scrollbars": false,
+  "minimal-advanced@@cursor": "default",
+  "minimal-style@@callouts-style": "callouts-default",
+  "minimal-style@@pdf-dark-opacity": 1,
+  "minimal-style@@h1-weight": 600,
+  "minimal-style@@pdf-invert-dark": true,
+  "minimal-style@@image-radius": 4,
+  "minimal-style@@image-muted": 0.7
+}

@@ -1,0 +1,52 @@
+{
+  "settings": {
+    "flashcardEasyText": "Easy",
+    "flashcardGoodText": "Took time to answer",
+    "flashcardHardText": "Hard/Incorrect",
+    "flashcardTags": [
+      "#test",
+      "#plang",
+      "#nsys",
+      "#softeng",
+      "#pdev",
+      "#appdev"
+    ],
+    "convertFoldersToDecks": false,
+    "cardCommentOnSameLine": true,
+    "burySiblingCards": false,
+    "showContextInCards": true,
+    "flashcardHeightPercentage": 80,
+    "flashcardWidthPercentage": 40,
+    "randomizeCardOrder": true,
+    "convertHighlightsToClozes": true,
+    "convertBoldTextToClozes": false,
+    "convertCurlyBracketsToClozes": true,
+    "singleLineCardSeparator": ";;",
+    "singleLineReversedCardSeparator": ";;;",
+    "multilineCardSeparator": ",,",
+    "multilineReversedCardSeparator": ",,,",
+    "editLaterTag": "#edit-later",
+    "enableNoteReviewPaneOnStartup": true,
+    "tagsToReview": [
+      "#review"
+    ],
+    "noteFoldersToIgnore": [],
+    "openRandomNote": false,
+    "autoNextNote": false,
+    "disableFileMenuReviewOptions": false,
+    "maxNDaysNotesReviewQueue": 365,
+    "initiallyExpandAllSubdecksInTree": false,
+    "baseEase": 250,
+    "lapsesIntervalChange": 0.01,
+    "easyBonus": 1,
+    "maximumInterval": 36525,
+    "maxLinkFactor": 1,
+    "showDebugMessages": false,
+    "showFileNameInFileLink": true,
+    "singlelineCardSeparator": ";;",
+    "singlelineReversedCardSeparator": ";;;"
+  },
+  "buryDate": "2023-09-21",
+  "buryList": [],
+  "historyDeck": ""
+}

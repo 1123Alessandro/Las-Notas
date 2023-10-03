@@ -1,0 +1,31 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "newFileLocation": "current",
+  "useMarkdownLinks": false,
+  "vimMode": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./cache",
+  "communityPluginSortOrder": "download",
+  "readableLineLength": true,
+  "lineWrap": true,
+  "tabSize": 4,
+  "rightToLeft": false,
+  "spellcheck": false,
+  "spellcheckLanguages": null,
+  "strictLineBreaks": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "defaultViewMode": "preview",
+  "showInlineTitle": false,
+  "showFrontmatter": true,
+  "showUnsupportedFiles": false,
+  "autoPairMarkdown": false,
+  "propertiesInDocument": "source"
+}
