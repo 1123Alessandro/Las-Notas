@@ -1,3 +1,7 @@
+---
+tags: fc, plang
+course: 26111 Programming Languages
+---
 Three ways to Implement Programming Languages;;Compilation, Pure interpretation, and Hybrid implementation
 
 What analyzer does Compilation, Pure interpretation, and Hybrid implementation use;;Lexical and Syntax Analyzer

@@ -1,3 +1,7 @@
+---
+tags: fc, plang
+course: 26111 Programming Languages
+---
 a string of characters used to identify some entity in a program;;name
 
 uppercase and lowercase letters in names are distinct. EX. rose differs from ROSE;;case sensitive

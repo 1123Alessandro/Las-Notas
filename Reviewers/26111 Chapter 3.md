@@ -1,5 +1,7 @@
-#fc #plang 
-
+---
+tags: fc, plang
+course: 26111 Programming Languages
+---
 the form or structure of the expressions, statements, and program units;;Syntax
 
 the meaning of the expressions, statements, and program units;;Semantics
