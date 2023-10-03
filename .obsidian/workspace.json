@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reviewers/26011 Chapter 3 to 7_Quizlet.md",
+                "file": "Reviewers/26111 Chapter 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3a7e4040af151f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reviewers/26111 Chapter 5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04af52d609551d0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reviewers/26111 Chapter 5.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reviewers/26011 Chapter 3 to 7_Quizlet.md",
+                "file": "Reviewers/26111 Chapter 5.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reviewers/26011 Chapter 3 to 7_Quizlet.md"
+                "file": "Reviewers/26111 Chapter 5.md"
               }
             }
           },
@@ -172,15 +199,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "948136f82bd66b18",
+  "active": "04af52d609551d0c",
   "lastOpenFiles": [
+    "Reviewers/26111 Chapter 4.md",
+    "Reviewers/26111 Chapter 5.md",
+    "Reviewers/26111 Chapter 3.md",
     "Reviewers/PDEV Unit 2.md",
-    "Reviewers/Untitled.md",
     "Reviewers/26110 Week 1-4.md",
     "Reviewers/26011 Long Test 1.md",
     "Reviewers/26010 Quiz 1.md",
     "Reviewers/26010 Quiz 2.md",
-    "Reviewers/26011 Chapter 3 to 7_Quizlet.md",
     "Reviewers/PDEV Unit 1.md",
     "Reviewers/26111 Chapter 1.md",
     "Reviewers/26111 Chapter 2.md",
@@ -200,7 +228,6 @@
     "Courses/Data Warehousing/Lab Exercise 2.md",
     "Timeline/10-09-23.md",
     "Courses/Data Warehousing/Lab Exercise 1.md",
-    "VaultDB/DB Query.md",
     "Courses/Personality Development/cache/Pasted image 20231002154252.png",
     "Courses/Software Engineering I/B3 - Validation Board (BCD 2016-05).pdf",
     "Courses/Data Warehousing/cache/Pasted image 20231002115836.png",
