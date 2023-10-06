@@ -9,7 +9,7 @@ An operator with a single operand;;Unary operator
 
 An operator that appears in between their operands.;;Infix operator
 
-Operator usually has left associativity;;+
+Operator usually has left associativity ;; +
 
 they are separated by a single operand.;;Adjacent operators
 
