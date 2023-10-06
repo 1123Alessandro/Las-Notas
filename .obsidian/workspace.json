@@ -4,76 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3aee295da3df5217",
+        "id": "62ed1073d8adffcc",
         "type": "tabs",
         "children": [
           {
-            "id": "948136f82bd66b18",
+            "id": "22aa546b47706642",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reviewers/26111 Chapter 3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3a7e4040af151f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reviewers/26111 Chapter 5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04af52d609551d0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reviewers/26111 Chapter 6.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c6c8121f7a50f6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reviewers/26111 Chapter 7.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e122576c3648cfa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reviewers/26111 Chapter 4.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#plang2",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -123,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 420,
+    "collapsed": true
   },
   "right": {
     "id": "791da04cfc683476",
@@ -139,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reviewers/26111 Chapter 7.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Reviewers/26111 Chapter 7.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,11 +145,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 420
+    "width": 420,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,37 +166,32 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2c6c8121f7a50f6e",
+  "active": "22aa546b47706642",
   "lastOpenFiles": [
-    "Reviewers/26111 Chapter 6.md",
-    "Reviewers/26111 Chapter 7.md",
-    "Reviewers/26111 Chapter 4.md",
     "Reviewers/26111 Chapter 5.md",
-    "Reviewers/26111 Chapter 3.md",
-    "Reviewers/26111 Chapter 2.md",
-    "Reviewers/PDEV Unit 2.md",
-    "Reviewers/26110 Week 1-4.md",
-    "Reviewers/26011 Long Test 1.md",
-    "Reviewers/26010 Quiz 1.md",
-    "Reviewers/26010 Quiz 2.md",
-    "Reviewers/PDEV Unit 1.md",
-    "Reviewers/26111 Chapter 1.md",
-    "TestFolder",
+    "Reviewers/26111 Chapter 6.md",
     "000.md",
-    "Timeline/10-26-23.md",
-    "Timeline/10-27-23.md",
-    "Timeline/09-30-23.md",
-    "Timeline/10-02-23.md",
-    "Timeline/10-04-23.md",
-    "Timeline/10-05-23.md",
-    "Timeline/09-28-23.md",
-    "Timeline/09-27-23.md",
-    "Timeline/09-26-23.md",
-    "Timeline/09-25-23.md",
-    "Reviewers/flashcards.md",
+    "Reviewers/test.md",
+    "Reviewers/26111 Chapter 3.md",
+    "Reviewers/26111 Chapter 4.md",
+    "test.md",
+    "Reviewers/26111 Chapter 7.md",
+    "Reviewers/PDEV Unit 1.md",
+    "Reviewers/PDEV Unit 2.md",
     "Courses/Data Warehousing/Lab Exercise 2.md",
+    "Timeline/10-05-23.md",
+    "Timeline/10-09-23.md",
+    "Courses/Data Warehousing/Lab Exercise 1.md",
+    "VaultDB/DB Query.md",
+    "Courses/Software Engineering I/project.md",
+    "Timeline/10-07-23.md",
+    "Timeline/10-04-23.md",
+    "Courses/Ethics/ETCS.md",
+    "Courses/Personality Development/PDEV.md",
     "Courses/Personality Development/cache/Pasted image 20231002154252.png",
+    "Courses/Software Engineering I/ICS 26010.md",
     "Courses/Software Engineering I/B3 - Validation Board (BCD 2016-05).pdf",
+    "Courses/Data Warehousing/ELEC 1C.md",
     "Courses/Data Warehousing/cache/Pasted image 20231002115836.png",
     "Courses/Data Warehousing/cache/Pasted image 20231002115742.png",
     "Courses/Data Warehousing/cache/Pasted image 20231002115705.png",
@@ -264,14 +201,19 @@
     "Courses/Data Warehousing/cache/Pasted image 20231002113824.png",
     "Courses/Data Warehousing/cache/Pasted image 20231002113029.png",
     "Courses/Data Warehousing/cache/Pasted image 20231002112749.png",
+    "Templates/header.md",
     "Courses/Data Warehousing/Inventory Case Briefing.pdf",
     "Courses/Data Warehousing/Inventory Case Briefing.pdf.opdownload",
     "Courses/Data Warehousing/Lecture 6_ Inventory Case Study.pdf",
     "Courses/Data Warehousing/Lecture 6_ Inventory Case Study.pdf.opdownload",
+    "clipboard/board.md",
     "clipboard/ICS 26010.pdf",
+    "Timeline/10-02-23.md",
+    "Courses/Numerical Methods for Computing Sciences/CS 26110.md",
     "Courses/Programming Languages/Concepts of Programming Languages (10th Edition) (Sebesta, Robert W.).pdf",
     "clipboard/CS 26111.pdf",
     "Courses/Software Engineering I/B3 - Validation Board (BCD 2016-05).pdf.opdownload",
+    "Courses/Data Warehousing/StudentData.csv",
     "Bulletin Board/exp.canvas",
     "Bulletin Board/canv.canvas",
     "ICS2609 App Dev Enterprise Back End/Final Project/Information Architecture.canvas"
