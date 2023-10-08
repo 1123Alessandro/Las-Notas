@@ -11,8 +11,13 @@
             "id": "22aa546b47706642",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Reviewers/26011 Long Test 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420,
-    "collapsed": true
+    "width": 420
   },
   "right": {
     "id": "791da04cfc683476",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reviewers/26011 Long Test 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reviewers/26011 Long Test 1.md"
+              }
             }
           },
           {
@@ -168,9 +175,9 @@
   },
   "active": "22aa546b47706642",
   "lastOpenFiles": [
+    "000.md",
     "Reviewers/26111 Chapter 5.md",
     "Reviewers/26111 Chapter 6.md",
-    "000.md",
     "Reviewers/test.md",
     "Reviewers/26111 Chapter 3.md",
     "Reviewers/26111 Chapter 4.md",
