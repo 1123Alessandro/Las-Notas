@@ -29,7 +29,8 @@ When you made any alteration in the code, the widget rebuilds its description by
 
 A widget is either stateful or stateless. If a widget can change when a user ==interacts with it==
 
-# Visible and Invisible Widgets 
+A widget that never changes ;; stateless widget
+
 Two categories of flutter widgets
 ,,
 - visible (output and input)
@@ -37,7 +38,7 @@ Two categories of flutter widgets
 "
 The ==visible widgets== are related to the user input and output data.
 
-## Important tpyes of visible widgets
+## Important types of visible widgets
 This holds some text to display on the screen ;; Text 
 
 This widget holds the image which can fetch it from multiple sources like form the asset folder or directly from the URL ;; image 
@@ -54,7 +55,7 @@ This widget acts as a container for stroing the Icon in Flutter ;; Icon
 
 ==Invisible widgets== are related to hte layout and control of widgets. It provides controlling how the widgets actually behave and how they will look onto the screen.
 
-### Important tpyes of Invisible widgets 
+### Important types of Invisible widgets 
 
 It is a type of widget that arranges all its children's widgets in a vertical alignment.  ;; Column
 
@@ -92,22 +93,18 @@ this widget has the ==`createState()`== method, which returns a class that exten
 
 ==Stateless Widget== creattes a new State object for each BuildContext 
 
-A widget that never changes ;; stateless widget
-
 Examples of Stateful Widgetes 
-"
+,,
 - Checkbox
 - Radio button
 - TextField
-"
 
 Examples of Stateless Widget
-"
+,,
 - text
 - Icon
 - Icon Button
 - Raised button
-"
 
 ==Stateful Widget== Override the CreateState and return State
 
