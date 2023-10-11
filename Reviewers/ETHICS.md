@@ -8,10 +8,9 @@ course: ETHICS Ethics
 A lecture on the defiition, scope, and basic asumptions in the field. Branch of philosophy that deals with how we ought to live, with the idea of the Good, and with concepts such as "right" and "wrong". ;; Ethics 
 
 Life Mantra 
-"
+,,
 - Guide in life 
 - Your philosophy
-"
 
 Philosophy comes form the greek words ==Philia== means love, and ==Sophia== means wisdom (==Love of Wisdom==)
 
@@ -22,25 +21,24 @@ Correct application of knowledge ;; Wisdom
 
 Colleaction of information ;; Knowledge 
 
-Wisdom and unserstanding 
-"
+Wisdom and understanding 
+,,
 - How you got the informaiton gathered
 - Finding the bigger picture 
 - Application of what is learend and after deep reflection 
-"
+
 Being inlove with wisdom 
-"
+,,
 - Being open to ides 
 - Haaving better understanding 
 - Find meaning
-"
+
 
 Meaning of Existence 
-"
+,,
 - To understand your own self 
 - To understand the wrold 
 - To understand how things work
-"
 
 # Philosophical reflection 
 
@@ -48,7 +46,7 @@ Opens the mind ;; Asking questions
 
 Spotting contradictions, thallasic. ;; Finding coherence 
 
-Using logical tools, principles and standards. If there's something else to investigage ;; Connection facts and truths logically 
+Using logical tools, principles and standards. If there's something else to investigate ;; Connection facts and truths logically (i.e. Finding coherence)
 
 Involves reflection and personal principles ;; Introspecting 
 
@@ -60,22 +58,22 @@ Conversing with own-self, Deep thoughs, Discussions ;; Engaging in discourse in 
 
 Thinking outiside the box, consdiering thoughts of other people, and Finding a way to see a different angle and perspective ;; Thinking critically and logically 
 
-Thought experimentsma and dealing with dilemmas and contradictions ;; Hypothesizing scenarios or thought experiments
+Thought experiments and dealing with dilemmas and contradictions ;; Hypothesizing scenarios or thought experiments
 
 
 # Methods in Philosophy 
 
-Seeing each fiber of the tread and understanding each concept ;; Annuluses
+Seeing each fiber of the tread and understanding each concept ;; Analyze from greek *Analuses*
 
 Thinking in question ;; Inquisitive thinking 
 
-Both of us don't have any notes here ;; logical reasoning or rational argumentation 
+Both of us don't have any notes here ; logical reasoning or rational argumentation 
 
 Analyzing the concept of things like Dialogue of Plato in Justice ;; Conceptual or linguistic analysis
 
-Talking to people, asking their thoughts ;; Critical, Creative, Collaborative thinking
+Talking to people, asking their thoughts ;; Collaborative thinking
 
-Hypothesizing ;; Thought prove or experimentation 
+Hypothesizing ;; Thought probe or experimentation 
 
 # What are the questions we ask in Philosophy? 
 
@@ -83,21 +81,22 @@ The realm  of the unknowable. How do we know waht we know? What is truth and kno
 
 The study of reasoning ;; Logic
 
-Beyond the physical (Time, soul, meaning of life and reality) ;; Metaphysics
+How we define "real". Beyond the physical (Time, soul, meaning of life and reality) ;; Metaphysics
 
-How outght we to live? What is good? Why be moral? ;; Ethics 
+How ought we to live? What is good? Why be moral? ;; Ethics 
 
 
 # Branches of Ethics
 
-Understanding of right and wrong, a probe into concepts in ethics ;; Meta-ethics
+Understanding of right and wrong, a probe into concepts in ethics, includes questions on moral semantics ;; Meta-ethics
 
-a survey of ethical traditions and theories; (moral philosophy) a systematic effort to understand moral concepts and justify moral principles and  theories. ;; Normative or prescriptive ethics
+a survey of ethical traditions and theories; (moral philosophy) a systematic effort to understand moral concepts and justify moral principles and theories. Discusses the previously established theories in ethics ;; Normative or prescriptive ethics
 
 a survey of moral problems and issues across disciplines ;; Applied or value ethics
 
 a close comparison of observation of different moral systems, actual beliefs, customs, and principals ;; Descriptive ethics
 
+# Domains of ethical assessment
 
 The right (obligatory, optional) and wrong ;; action
 
@@ -107,6 +106,7 @@ Virtue vs vice ;; Character
 
 Good vs bad ;; Motive
 
+# Morality
 
 Anything that is agreed upon a culture. A set of customary behaviors ;; Morality 
 
@@ -128,5 +128,5 @@ Crontradictions and problematic laws ;; Overridingness
 
 How we compose in private then we compose them in public ;; Publicity
 
- All principles are doable and workable. Do not require extreme selflessness. Capacity dictates morality ;; Practicability 
+All principles are doable and workable. Do not require extreme selflessness. Capacity dictates morality ;; Practicability 
 
