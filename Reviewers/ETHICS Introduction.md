@@ -1,6 +1,8 @@
 ---
-tags: fc, ethics
-course: ETHICS Ethics
+tags:
+  - fc
+  - ethics
+course: ETHICS
 ---
 
 # What is Ethics? 
@@ -14,12 +16,11 @@ Life Mantra
 
 Philosophy comes form the greek words ==Philia== means love, and ==Sophia== means wisdom (==Love of Wisdom==)
 
-
 Strong desire for a particular object ;; Love
 
 Correct application of knowledge ;; Wisdom 
 
-Colleaction of information ;; Knowledge 
+Collection of information ;; Knowledge 
 
 Wisdom and understanding 
 ,,
@@ -37,7 +38,7 @@ Being inlove with wisdom
 Meaning of Existence 
 ,,
 - To understand your own self 
-- To understand the wrold 
+- To understand the world 
 - To understand how things work
 
 # Philosophical reflection 
@@ -98,11 +99,26 @@ a close comparison of observation of different moral systems, actual beliefs, cu
 
 # Domains of ethical assessment
 
-The right (obligatory, optional) and wrong ;; action
+The right (obligatory, optional) and wrong, right act vs. wrong act ;; action
 
-Positive vs negative ;; consequences
+right acts are ==permissible== acts
 
-Virtue vs vice ;; Character 
+wrong acts are ==not permissible== acts
+
+a permissible act which we are bound to do ;; obligatory
+
+permissible acts where not committing them is not a moral mistake ;; optional
+
+types of optional acts
+,,
+- neutral
+- supererogatory
+
+actions done outside the bounds of one's duties ;; supererogatory optional act
+
+Positive vs negative impacts ;; consequences
+
+Virtue vs vice, where is the person coming from ;; Character 
 
 Good vs bad ;; Motive
 
@@ -112,21 +128,22 @@ Anything that is agreed upon a culture. A set of customary behaviors ;; Morality
 
 The system of widley accepted rules and principles within cultures ;; Conventional or traditional morality 
 
-A system of moral principles untained by mistaken beliefs, irrationality, or popular prejudices ;; Critical morality 
+A system of moral principles untainted by mistaken beliefs, irrationality, or popular prejudices ;; Critical morality 
 
-Logically derived, Ethical assumptions that are reasonably backed up by observation, argumentation, and inquiry ;;
+Not just mere gut-feelings. Basic ethical assumptions that are reasonably backed up by observation, argumentation, and inquiry ;; moral intuitions
+
+Generated through rational argumentation and probing ;; critical morality
 
 Prior to the experience ;; appriori 
 
-# Traits or Moral Principles 
+# Traits of Moral Principles 
 
-Perspective and normattive. Applies to all. Dony by anyone and everyone ;; Presciptivity 
+Normative. Applies to all. Dony by anyone and everyone ;; Prescriptivity 
 
-Applied to all istuations and cases, No one is excluded rfrom exercising moral principles, Everyone affects everyone based on behavior ;; Universalizability 
+Applied to all situations and cases, No one is excluded from exercising moral principles, Everyone affects everyone based on behavior ;; Universalizability 
 
-Crontradictions and problematic laws ;; Overridingness
+Contradictions and problematic laws. Prioritizing morality over legality ;; Overridingness
 
-How we compose in private then we compose them in public ;; Publicity
+How we compose ourselves in private should be the same in public ;; Publicity
 
-All principles are doable and workable. Do not require extreme selflessness. Capacity dictates morality ;; Practicability 
-
+Ought implies can. All principles are doable and workable. Do not require extreme selflessness. Capacity dictates morality ;; Practicability 
