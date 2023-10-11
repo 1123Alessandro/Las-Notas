@@ -11,8 +11,13 @@
             "id": "22aa546b47706642",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Reviewers/ETHICS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reviewers/ETHICS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reviewers/ETHICS.md"
+              }
             }
           },
           {
@@ -168,16 +176,21 @@
   },
   "active": "22aa546b47706642",
   "lastOpenFiles": [
+    "Reviewers/26111 Chapter 7.md",
+    "Reviewers/PDEV Unit 2.md",
     "Reviewers/26111 Chapter 5.md",
-    "Reviewers/26111 Chapter 6.md",
+    "Reviewers/ETHICS.md",
+    "Timeline/09-25-23.md",
+    "Reviewers/26011 Long Test 1.md",
+    "Reviewers/26010 Quiz 2.md",
+    "Reviewers/26010 Quiz 1.md",
     "000.md",
+    "Reviewers/26111 Chapter 6.md",
     "Reviewers/test.md",
     "Reviewers/26111 Chapter 3.md",
     "Reviewers/26111 Chapter 4.md",
     "test.md",
-    "Reviewers/26111 Chapter 7.md",
     "Reviewers/PDEV Unit 1.md",
-    "Reviewers/PDEV Unit 2.md",
     "Courses/Data Warehousing/Lab Exercise 2.md",
     "Timeline/10-05-23.md",
     "Timeline/10-09-23.md",
@@ -191,7 +204,6 @@
     "Courses/Personality Development/cache/Pasted image 20231002154252.png",
     "Courses/Software Engineering I/ICS 26010.md",
     "Courses/Software Engineering I/B3 - Validation Board (BCD 2016-05).pdf",
-    "Courses/Data Warehousing/ELEC 1C.md",
     "Courses/Data Warehousing/cache/Pasted image 20231002115836.png",
     "Courses/Data Warehousing/cache/Pasted image 20231002115742.png",
     "Courses/Data Warehousing/cache/Pasted image 20231002115705.png",
@@ -201,15 +213,11 @@
     "Courses/Data Warehousing/cache/Pasted image 20231002113824.png",
     "Courses/Data Warehousing/cache/Pasted image 20231002113029.png",
     "Courses/Data Warehousing/cache/Pasted image 20231002112749.png",
-    "Templates/header.md",
     "Courses/Data Warehousing/Inventory Case Briefing.pdf",
     "Courses/Data Warehousing/Inventory Case Briefing.pdf.opdownload",
     "Courses/Data Warehousing/Lecture 6_ Inventory Case Study.pdf",
     "Courses/Data Warehousing/Lecture 6_ Inventory Case Study.pdf.opdownload",
-    "clipboard/board.md",
     "clipboard/ICS 26010.pdf",
-    "Timeline/10-02-23.md",
-    "Courses/Numerical Methods for Computing Sciences/CS 26110.md",
     "Courses/Programming Languages/Concepts of Programming Languages (10th Edition) (Sebesta, Robert W.).pdf",
     "clipboard/CS 26111.pdf",
     "Courses/Software Engineering I/B3 - Validation Board (BCD 2016-05).pdf.opdownload",

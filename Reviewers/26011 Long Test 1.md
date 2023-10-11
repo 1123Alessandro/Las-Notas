@@ -29,10 +29,41 @@ When you made any alteration in the code, the widget rebuilds its description by
 
 A widget is either stateful or stateless. If a widget can change when a user ==interacts with it==
 
+A widget that never changes ;; stateless widget
+
 Two categories of flutter widgets
 ,,
 - visible (output and input)
 - invisible (layout and control)
+"
+The ==visible widgets== are related to the user input and output data.
+
+## Important types of visible widgets
+This holds some text to display on the screen ;; Text 
+
+This widget holds the image which can fetch it from multiple sources like form the asset folder or directly from the URL ;; image 
+
+### Image Constructors 
+
+==Image== : It is a generic image loader, which is used by Image Provider
+==asset== : Loads the image from your project ==asset== folder
+==file== : it loads image from the system folder
+==memory== : Loads the image from the memory
+==network== : It loads images from the internet 
+
+This widget acts as a container for stroing the Icon in Flutter ;; Icon
+
+==Invisible widgets== are related to hte layout and control of widgets. It provides controlling how the widgets actually behave and how they will look onto the screen.
+
+### Important types of Invisible widgets 
+
+It is a type of widget that arranges all its children's widgets in a vertical alignment.  ;; Column
+
+The ==row== widget is similar to the column widget, but it constructs a widget horizontally rather than vertically 
+
+this widget provides a framework that allows you to add common material design elements like AppBar, Floating Action Buttons, Drawers, etc ;; Scaffold
+
+It is an essential widget, which is mainly used for overlapping a widget, such as a button on a background gradient.  ;; Stack
 
 # History
 
@@ -44,9 +75,11 @@ in ==December 2018==, Flutter 1.0 was released
 
 has a portable runtime for high-quality mobile apps and primarily based on the C++ language ;; flutter engine
 
+It implements ==Flutter core libraries== that include animation, and grpahics, fiole and network I/O, plugin architecture, accessibility support, and a dart runtime for developing, compiling and running Flutter applications
+
 the flutter engine takes google's open-source graphics library, ==Skia== to render low-level graphics
 
-# StatefulWidget
+# StatefulWidget and Stateless widgets 
 
 A `StatefulWidget` has state ==information==
 
@@ -55,6 +88,33 @@ A `StatefulWidget` has state ==information==
 This widget does not have a ==`build()`== method
 
 this widget has the ==`createState()`== method, which returns a class that extends the ==flutters state class==
+
+==Stateful Widget== can build in many different BuildContexts
+
+==Stateless Widget== creattes a new State object for each BuildContext 
+
+Examples of Stateful Widgetes 
+,,
+- Checkbox
+- Radio button
+- TextField
+
+Examples of Stateless Widget
+,,
+- text
+- Icon
+- Icon Button
+- Raised button
+
+==Stateful Widget== Override the CreateState and return State
+
+==Stateless Widget== Override the build() and return Widget
+
+==Stateful Widget== is used when the user want to change the UI dynamically 
+
+==Stateless Widget== is used when the UI remains constant during runtime 
+
+In ==Stateful widgets== when the state changes, the state object calls ==setState()==, telling the framework to redraw the widget
 
 # Flutter Architecture
 
@@ -82,3 +142,4 @@ Platform
 - Android Shell
 - iOS Shell
 - Embedder API
+

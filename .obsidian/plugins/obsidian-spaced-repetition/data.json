@@ -11,7 +11,7 @@
       "#softeng",
       "#pdev",
       "#appdev",
-      ""
+      "#ethics"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": true,
@@ -48,7 +48,7 @@
     "singlelineCardSeparator": ";;",
     "singlelineReversedCardSeparator": ";;;"
   },
-  "buryDate": "2023-10-03",
+  "buryDate": "2023-10-08",
   "buryList": [],
   "historyDeck": "plang"
 }
