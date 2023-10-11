@@ -147,6 +147,3 @@ Contradictions and problematic laws. Prioritizing morality over legality ;; Over
 How we compose ourselves in private should be the same in public ;; Publicity
 
 Ought implies can. All principles are doable and workable. Do not require extreme selflessness. Capacity dictates morality ;; Practicability 
-
-# Moral Reasoning
-
