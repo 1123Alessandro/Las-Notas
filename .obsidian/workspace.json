@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reviewers/ETHICS Moral Relativism.md",
+                "file": "Reviewers/26111 Chapter 7.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44c0b195e14f2388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reviewers/26111 Chapter 8.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reviewers/ETHICS Moral Relativism.md",
+                "file": "Reviewers/26111 Chapter 8.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reviewers/ETHICS Moral Relativism.md"
+                "file": "Reviewers/26111 Chapter 8.md"
               }
             }
           },
@@ -187,10 +200,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9c6d8149c30368de",
+  "active": "44c0b195e14f2388",
   "lastOpenFiles": [
-    "Reviewers/ETHICS Moral Reasoning.md",
+    "Reviewers/26111 Chapter 7.md",
+    "Reviewers/26111 Chapter 8.md",
     "Reviewers/ETHICS Moral Relativism.md",
+    "Reviewers/ETHICS Moral Reasoning.md",
     "Reviewers/ETHICS Logical Reasoning.md",
     "Reviewers/PDEV Conflict Styles.md",
     "Reviewers/26111 Chapter 4.md",
@@ -202,7 +217,6 @@
     "Reviewers/26110 Week 1-4.md",
     "Reviewers/26010 Quiz 2.md",
     "Reviewers/26010 Quiz 1.md",
-    "Reviewers/26111 Chapter 7.md",
     "Reviewers/PDEV Unit 2.md",
     "Timeline/09-25-23.md",
     "000.md",
