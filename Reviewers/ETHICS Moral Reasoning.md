@@ -1,5 +1,7 @@
 ---
-tags: fc, ethics
+tags:
+  - fc
+  - ethics
 course: ETHICS
 ---
 
