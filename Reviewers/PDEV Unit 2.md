@@ -1,6 +1,6 @@
 ---
-tags: fc, pdev
-course: Personality Development
+tags: fc, os
+course: Operating Systems
 ---
 
 how you perceive yourself ;; self-image
