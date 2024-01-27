@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reviewers/ETHICS.md",
+                "file": "Reviewers/ETHICS Moral Reasoning.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c6d8149c30368de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reviewers/26111 Chapter 7.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44c0b195e14f2388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reviewers/26111 Chapter 8.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420,
-    "collapsed": true
+    "width": 420
   },
   "right": {
     "id": "791da04cfc683476",
@@ -87,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reviewers/ETHICS.md",
+                "file": "Reviewers/26111 Chapter 8.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reviewers/ETHICS.md"
+                "file": "Reviewers/26111 Chapter 8.md"
               }
             }
           },
@@ -174,35 +200,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "22aa546b47706642",
+  "active": "44c0b195e14f2388",
   "lastOpenFiles": [
     "Reviewers/26111 Chapter 7.md",
-    "Reviewers/PDEV Unit 2.md",
+    "Reviewers/26111 Chapter 8.md",
+    "Reviewers/ETHICS Moral Relativism.md",
+    "Reviewers/ETHICS Moral Reasoning.md",
+    "Reviewers/ETHICS Logical Reasoning.md",
+    "Reviewers/PDEV Conflict Styles.md",
+    "Reviewers/26111 Chapter 4.md",
+    "Reviewers/26111 Chapter 3.md",
+    "Reviewers/26111 Chapter 2.md",
+    "Reviewers/26111 Chapter 1.md",
     "Reviewers/26111 Chapter 5.md",
-    "Reviewers/ETHICS.md",
-    "Timeline/09-25-23.md",
     "Reviewers/26011 Long Test 1.md",
+    "Reviewers/26110 Week 1-4.md",
     "Reviewers/26010 Quiz 2.md",
     "Reviewers/26010 Quiz 1.md",
+    "Reviewers/PDEV Unit 2.md",
+    "Timeline/09-25-23.md",
     "000.md",
     "Reviewers/26111 Chapter 6.md",
     "Reviewers/test.md",
-    "Reviewers/26111 Chapter 3.md",
-    "Reviewers/26111 Chapter 4.md",
     "test.md",
     "Reviewers/PDEV Unit 1.md",
     "Courses/Data Warehousing/Lab Exercise 2.md",
     "Timeline/10-05-23.md",
     "Timeline/10-09-23.md",
     "Courses/Data Warehousing/Lab Exercise 1.md",
-    "VaultDB/DB Query.md",
-    "Courses/Software Engineering I/project.md",
-    "Timeline/10-07-23.md",
-    "Timeline/10-04-23.md",
-    "Courses/Ethics/ETCS.md",
-    "Courses/Personality Development/PDEV.md",
     "Courses/Personality Development/cache/Pasted image 20231002154252.png",
-    "Courses/Software Engineering I/ICS 26010.md",
     "Courses/Software Engineering I/B3 - Validation Board (BCD 2016-05).pdf",
     "Courses/Data Warehousing/cache/Pasted image 20231002115836.png",
     "Courses/Data Warehousing/cache/Pasted image 20231002115742.png",
