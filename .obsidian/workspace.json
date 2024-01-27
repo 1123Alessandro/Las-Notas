@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "62ed1073d8adffcc",
+        "id": "e602ececece2d23b",
         "type": "tabs",
         "children": [
           {
-            "id": "22aa546b47706642",
+            "id": "0e983904f1d0e1ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reviewers/ETHICS Moral Reasoning.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c6d8149c30368de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reviewers/26111 Chapter 7.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44c0b195e14f2388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reviewers/26111 Chapter 8.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420
+    "width": 420,
+    "collapsed": true
   },
   "right": {
     "id": "791da04cfc683476",
@@ -113,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reviewers/26111 Chapter 8.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Reviewers/26111 Chapter 8.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,7 +141,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -200,56 +168,8 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "44c0b195e14f2388",
+  "active": "9005e9feaba770dd",
   "lastOpenFiles": [
-    "Reviewers/26111 Chapter 7.md",
-    "Reviewers/26111 Chapter 8.md",
-    "Reviewers/ETHICS Moral Relativism.md",
-    "Reviewers/ETHICS Moral Reasoning.md",
-    "Reviewers/ETHICS Logical Reasoning.md",
-    "Reviewers/PDEV Conflict Styles.md",
-    "Reviewers/26111 Chapter 4.md",
-    "Reviewers/26111 Chapter 3.md",
-    "Reviewers/26111 Chapter 2.md",
-    "Reviewers/26111 Chapter 1.md",
-    "Reviewers/26111 Chapter 5.md",
-    "Reviewers/26011 Long Test 1.md",
-    "Reviewers/26110 Week 1-4.md",
-    "Reviewers/26010 Quiz 2.md",
-    "Reviewers/26010 Quiz 1.md",
-    "Reviewers/PDEV Unit 2.md",
-    "Timeline/09-25-23.md",
-    "000.md",
-    "Reviewers/26111 Chapter 6.md",
-    "Reviewers/test.md",
-    "test.md",
-    "Reviewers/PDEV Unit 1.md",
-    "Courses/Data Warehousing/Lab Exercise 2.md",
-    "Timeline/10-05-23.md",
-    "Timeline/10-09-23.md",
-    "Courses/Data Warehousing/Lab Exercise 1.md",
-    "Courses/Personality Development/cache/Pasted image 20231002154252.png",
-    "Courses/Software Engineering I/B3 - Validation Board (BCD 2016-05).pdf",
-    "Courses/Data Warehousing/cache/Pasted image 20231002115836.png",
-    "Courses/Data Warehousing/cache/Pasted image 20231002115742.png",
-    "Courses/Data Warehousing/cache/Pasted image 20231002115705.png",
-    "Courses/Data Warehousing/cache/Pasted image 20231002115637.png",
-    "Courses/Data Warehousing/cache/Pasted image 20231002114254.png",
-    "Courses/Data Warehousing/cache/Pasted image 20231002114219.png",
-    "Courses/Data Warehousing/cache/Pasted image 20231002113824.png",
-    "Courses/Data Warehousing/cache/Pasted image 20231002113029.png",
-    "Courses/Data Warehousing/cache/Pasted image 20231002112749.png",
-    "Courses/Data Warehousing/Inventory Case Briefing.pdf",
-    "Courses/Data Warehousing/Inventory Case Briefing.pdf.opdownload",
-    "Courses/Data Warehousing/Lecture 6_ Inventory Case Study.pdf",
-    "Courses/Data Warehousing/Lecture 6_ Inventory Case Study.pdf.opdownload",
-    "clipboard/ICS 26010.pdf",
-    "Courses/Programming Languages/Concepts of Programming Languages (10th Edition) (Sebesta, Robert W.).pdf",
-    "clipboard/CS 26111.pdf",
-    "Courses/Software Engineering I/B3 - Validation Board (BCD 2016-05).pdf.opdownload",
-    "Courses/Data Warehousing/StudentData.csv",
-    "Bulletin Board/exp.canvas",
-    "Bulletin Board/canv.canvas",
-    "ICS2609 App Dev Enterprise Back End/Final Project/Information Architecture.canvas"
+    "Reviewers_2ndSem/OS Reviewer Module 1.md"
   ]
 }
